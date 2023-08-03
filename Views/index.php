@@ -1,21 +1,21 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Animated Login Form</title>
-	<link rel="stylesheet" type="text/css" href="css/style.css">
+	<title>Login Form</title>
+	<link rel="stylesheet" type="text/css" href="Assets/css/style.css">
 	<link href="https://fonts.googleapis.com/css?family=Poppins:600&display=swap" rel="stylesheet">
 	<script src="https://kit.fontawesome.com/a81368914c.js"></script>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
 <body>
-	<img class="wave" src="img/wave.png">
+	<img class="wave" src="Assets/img/wave.png">
 	<div class="container">
 		<div class="img">
-			<img src="img/bg.svg">
+			<img src="Assets/img/bg.svg">
 		</div>
 		<div class="login-content">
 			<form action="index.html">
-				<img src="img/avatar.svg">
+				<img src="Assets/img/avatar.svg">
 				<h2 class="title">Welcome</h2>
            		<div class="input-div one">
            		   <div class="i">
